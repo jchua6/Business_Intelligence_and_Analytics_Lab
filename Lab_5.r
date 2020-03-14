@@ -1,0 +1,1 @@
+mdata <- read.csv("marketing.csv")
